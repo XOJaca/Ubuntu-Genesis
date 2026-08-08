@@ -22,7 +22,7 @@ Um pequeno presente para um *"distro-hopper"* que gosta de testar sistemas, mas 
 
 ## ✅ Requisitos
 
-- Ubuntu LTS instalado recentemente (recomendado — outras versões podem não funcionar corretamente)
+- Ubuntu instalado recentemente
 - Conexão com a internet
 - Usuário com permissões de administrador (`sudo`)
 - Arquitetura `amd64`
