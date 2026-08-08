@@ -29,20 +29,21 @@ Um pequeno presente para um *"distro-hopper"* que gosta de testar sistemas, mas 
 
 ---
 
-## ⚙️ Como utilizar
+# 🚀 Como utilizar
 
-Clone ou copie o projeto para o computador e execute:
+1. Baixe a versão mais recente do **Ubuntu Genesis** na seção **Releases** deste repositório.
+2. Extraia o arquivo `.zip` em qualquer pasta de sua preferência.
+3. Abra a pasta extraída.
+4. Clique com o botão direito em `setup.sh` e escolha **Abrir no Terminal**
+
+4.2. Caso não tenha essa opção, então aperte com o botão direito do mouse na pasta baixada e aperte em "Abrir no Terminal"
+
+Execute então o seguinte código:
 
 ```bash
-git clone https://github.com/seu-usuario/ubuntu-genesis.git
-cd ubuntu-genesis
 chmod +x setup.sh
 ./setup.sh
 ```
-
-O script principal executa todos os módulos automaticamente, em sequência.
-
----
 
 ## 📦 Módulos
 
