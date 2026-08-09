@@ -67,13 +67,6 @@ O Genesis é dividido em módulos independentes, executados em ordem pelo `setup
 
 ---
 
-## 📄 Versão
-
-**Ubuntu Genesis**
-Version: 1.0
-
----
-
 ## 📝 Licença
 
 Projeto de uso pessoal, sinta-se à vontade para adaptar aos seus próprios fluxos.
