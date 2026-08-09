@@ -56,28 +56,10 @@ O Genesis é dividido em módulos independentes, executados em ordem pelo `setup
 | 05 | `05-mpv-config.sh` | Instala e configura o MPV com renderização em Vulkan e legendas amarelas |
 | 06 | `06-network-config.sh` | Configura o DNS da Cloudflare (1.1.1.1) em todas as conexões de rede |
 | 07 | `07-yt-dlp.sh` | Instala o FFmpeg e a versão mais recente do yt-dlp, com download padrão em `~/Downloads` |
-| 08 | `08-hide-snap.sh` | Oculta a pasta `~/snap` do gerenciador de arquivos e o ícone da Snap Store do menu de aplicativos — **sem remover nada** |
 
 ---
 
-## 🎮 NVIDIA
-
-Caso o sistema possua uma placa NVIDIA, siga manualmente:
-
-1. Abra o **Driver Manager** (Gerenciador de Drivers).
-2. Selecione a versão mais recente disponível (não necessariamente a recomendada pelo sistema).
-3. Aplique as alterações.
-4. Reinicie o computador.
-
-Após reiniciar:
-
-- abra o **Atualizador de Programas**;
-- atualize o sistema;
-- caso as atualizações dos Flatpaks não apareçam, execute:
-
-```bash
-sudo flatpak update
-```
+Reinicie para ver os programas em Flatpak e o suporte e o retorno da loja do Gnome Software.
 
 ---
 
