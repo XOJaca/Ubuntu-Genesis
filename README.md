@@ -53,7 +53,7 @@ O Genesis é dividido em módulos independentes, executados em ordem pelo `setup
 | 02 | `02-flatpak.sh` | Configura o Flathub e instala aplicativos em Flatpak (Discord, VLC, qBittorrent, OnlyOffice, OBS, Kdenlive, Lutris, Heroic, entre outros) |
 | 03 | `03-desktop-applications.sh` | Instala Google Chrome, Brave, Steam, Audacity e Rhythmbox; define Nautilus, Rhythmbox e VLC como aplicativos padrão para pastas, áudio e vídeo |
 | 04 | `04-gaming-environment.sh` | Ajusta variáveis do DXVK para o ambiente de jogos via Proton |
-| 05 | `05-mpv-config.sh` | Instala e configura o MPV com renderização em Vulkan e legendas amarelas |
+| 05 | `05-mpv-config.sh` | Legendas amarelas no MPV |
 | 06 | `06-network-config.sh` | Configura o DNS da Cloudflare (1.1.1.1) em todas as conexões de rede |
 | 07 | `07-yt-dlp.sh` | Instala o FFmpeg e a versão mais recente do yt-dlp, com download padrão em `~/Downloads` |
 
