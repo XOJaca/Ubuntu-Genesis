@@ -15,7 +15,7 @@ Um pequeno presente para um *"distro-hopper"* que gosta de testar sistemas, mas 
 - Preparar o ambiente para jogos (Proton/DXVK)
 - Aplicar DNS da Cloudflare
 - Instalar aplicativos oficiais externos (Chrome, Brave, Steam)
-- Ocultar rastros do Snap sem desinstalar nada
+- Ocultar rastros do Snap sem desinstalar nada [PLANEJADO PARA O PRÓXIMO RELEASE]
 - Economizar tempo após formatações
 
 ---
