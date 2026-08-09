@@ -59,8 +59,6 @@ O Genesis é dividido em módulos independentes, executados em ordem pelo `setup
 
 ---
 
----
-
 ## ⚠️ Observações
 
 - Algumas configurações aplicadas pelo Genesis podem exigir uma **reinicialização** para fazer efeito (principalmente as de jogos, da loja do Gnome e dos aplicativos em Flatpak).
