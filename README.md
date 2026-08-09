@@ -59,15 +59,12 @@ O Genesis é dividido em módulos independentes, executados em ordem pelo `setup
 
 ---
 
-Reinicie para ver os programas em Flatpak e o suporte e o retorno da loja do Gnome Software.
-
 ---
 
 ## ⚠️ Observações
 
-- Algumas configurações aplicadas pelo Genesis podem exigir uma **reinicialização** para funcionar corretamente (principalmente as de jogos e ícones ocultos).
-- Recomenda-se reiniciar o sistema após a execução completa do `setup.sh`.
-- O script assume um ambiente **GNOME** (padrão do Ubuntu) — pode exigir ajustes em outros ambientes de desktop.
+- Algumas configurações aplicadas pelo Genesis podem exigir uma **reinicialização** para fazer efeito (principalmente as de jogos, da loja do Gnome e dos aplicativos em Flatpak).
+- O script assume um ambiente **GNOME** (padrão do Ubuntu).
 - Testado especificamente no Ubuntu 26.04 LTS; use em outras versões por sua conta e risco.
 
 ---
