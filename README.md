@@ -11,7 +11,7 @@ Um pequeno presente para um *"distro-hopper"* que gosta de testar sistemas, mas 
 - Instalar pacotes essenciais do sistema
 - Configurar suporte a Flatpak & programas
 - Instalar aplicativos de desktop automaticamente
-- Configurar ferramentas multimídia (Celluloid, Rhythmbox, VLC, yt-dlp)
+- Configurar ferramentas multimídia (MPV, Rhythmbox, VLC, yt-dlp)
 - Preparar o ambiente para jogos (Proton/DXVK)
 - Aplicar DNS da Cloudflare
 - Instalar aplicativos oficiais externos (Chrome, Brave, Steam)
